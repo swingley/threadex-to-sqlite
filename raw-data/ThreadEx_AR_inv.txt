@@ -1,0 +1,19 @@
+ADQ AK Kodiak Area                    1913 2015 1913 2015
+AKN AK King Salmon Area               1917 2015 1917 2015
+ANC AK Anchorage Area                 1953 2015 1953 2015
+ANN AK Annette Area                   1941 2015 1941 2015
+BET AK Bethel Area                    1923 2015 1923 2015
+BIG AK Delta Junction Area            1917 2015 1919 2015
+BRW AK Barrow Area                    1922 2015 1922 2015
+BTT AK Bettles Area                   1944 2015 1944 2015
+CDB AK Cold Bay Area                  1942 2015 1942 2015
+FAI AK Fairbanks Area                 1904 2015 1904 2015
+GKN AK Gulkana Area                   1909 2015 1909 2015
+HOM AK Homer Area                     1932 2015 1932 2015
+JNU AK Juneau Area                    1890 2015 1890 2015
+MCG AK Mcgrath Area                   1941 2015 1939 2015
+OME AK Nome Area                      1906 2015 1906 2015
+OTZ AK Kotzebue Area                  1902 2015 1902 2015
+SNP AK St Paul Island Area            1892 2015 1892 2015
+TKA AK Talkeetna Area                 1918 2015 1918 2015
+YAK AK Yakutat Area                   1917 2015 1917 2015

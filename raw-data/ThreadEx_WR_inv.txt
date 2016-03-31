@@ -1,0 +1,46 @@
+AST OR Astoria Area                   1892 2015 1892 2015
+BFL CA Bakersfield Area               1893 2015 1893 2015
+BIH CA Bishop Area                    1943 2015 1943 2015
+BIL MT Billings Area                  1934 2015 1934 2015
+BNO OR Burns Area                     1939 2015 1939 2015
+BOI ID Boise Area                     1875 2015 1878 2015
+CQT CA Los Angeles Downtown Area      1877 2015 1877 2015
+EKA CA Eureka Area                    1886 2015 1886 2015
+EKO NV Elko Area                      1890 2015 1888 2015
+ELY NV Ely Area                       1893 2015 1888 2015
+EUG OR Eugene Area                    1912 2015 1892 2015
+FAT CA Fresno Area                    1887 2015 1881 2015
+FCA MT Kalispell Area                 1899 2015 1899 2015
+FLG AZ Flagstaff Area                 1898 2015 1898 2015
+GEG WA Spokane Area                   1881 2015 1881 2015
+GGW MT Glasgow Area                   1893 2015 1893 2015
+GTF MT Great Falls Area               1891 2015 1891 2015
+HLN MT Helena Area                    1880 2015 1880 2015
+HVR MT Havre Area                     1880 2015 1880 2015
+INW AZ Winslow Area                   1915 2015 1915 2015
+LAS NV Las Vegas Area                 1937 2015 1937 2015
+LAX CA Los Angeles Airport Area       1944 2015 1944 2015
+LGB CA Long Beach Area                1958 2015 1958 2015
+LWS ID Lewiston Area                  1881 2015 1881 2015
+MFR OR Medford Area                   1911 2015 1911 2015
+MSO MT Missoula Area                  1893 2015 1893 2015
+OLM WA Olympia Area                   1948 2015 1948 2015
+PDT OR Pendleton Area                 1892 2015 1892 2015
+PDX OR Portland Area                  1940 2015 1940 2015
+PHX AZ Phoenix Area                   1895 2015 1895 2015
+PIH ID Pocatello Area                 1939 2015 1939 2015
+RDD CA Redding Area                   1986 2015 1986 2015
+RNO NV Reno Area                      1893 2015 1893 2015
+SAC CA Sacramento Area                1941 2015 1941 2015
+SAN CA San Diego Area                 1874 2015 1850 2015
+SCK CA Stockton Area                  1948 2015 1948 2015
+SEA WA Seattle Area                   1894 2015 1894 2015
+SFO CA San Francisco Airport Area     1945 2015 1945 2015
+SLC UT Salt Lake City Area            1874 2015 1874 2015
+SLE OR Salem Area                     1893 2015 1892 2015
+SMX CA Santa Maria Area               1906 2015 1906 2015
+TUS AZ Tucson Area                    1894 2015 1894 2015
+UIL WA Quillayute Area                1966 2015 1966 2015
+WMC NV Winnemucca Area                1877 2015 1877 2015
+YKM WA Yakima Area                    1946 2015 1946 2015
+YUM AZ Yuma Area                      1878 2015 1876 2015
