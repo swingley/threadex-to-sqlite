@@ -22,7 +22,9 @@ const create = (next) => {
     precip_year_start integer,
     precip_year_end integer,
     state text,
-    place text
+    place text,
+    latitude real,
+    longitude real
   )`;
   let ddlData = `CREATE TABLE ${data} (
     station text,
