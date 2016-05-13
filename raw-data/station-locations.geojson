@@ -1,0 +1,4341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.40721976899974,
+          57.78999764000048
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "name": "kodiak-alaska",
+        "display": "Kodiak, Alaska",
+        "geocode_match": "Kodiak, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.66138976299973,
+          58.68832942400047
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "king-salmon-alaska",
+        "display": "King Salmon, Alaska",
+        "geocode_match": "King Salmon, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.90027622999972,
+          61.21805894100049
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "anchorage-alaska",
+        "display": "Anchorage, Alaska",
+        "geocode_match": "Anchorage, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.54166683399973,
+          55.06166924600046
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "annette-alaska",
+        "display": "Annette, Alaska",
+        "geocode_match": "Annette, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.75582869299976,
+          60.79221673000052
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "bethel-alaska",
+        "display": "Bethel, Alaska",
+        "geocode_match": "Bethel, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.73221959399973,
+          64.03777872500052
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "delta-junction-alaska",
+        "display": "Delta Junction, Alaska",
+        "geocode_match": "Delta Junction, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.78871946399974,
+          71.2905771280005
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "barrow-alaska",
+        "display": "Barrow, Alaska",
+        "geocode_match": "Barrow, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.51610984399974,
+          66.91888656200052
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "bettles-alaska",
+        "display": "Bettles, Alaska",
+        "geocode_match": "Bettles, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.72110553699974,
+          55.185826729000496
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "cold-bay-alaska",
+        "display": "Cold Bay, Alaska",
+        "geocode_match": "Cold Bay, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.71638602399972,
+          64.83777623500049
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "fairbanks-alaska",
+        "display": "Fairbanks, Alaska",
+        "geocode_match": "Fairbanks, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.38221815299974,
+          62.27138847100048
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "gulkana-alaska",
+        "display": "Gulkana, Alaska",
+        "geocode_match": "Gulkana, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.54832698499973,
+          59.6424967530005
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "homer-alaska",
+        "display": "Homer, Alaska",
+        "geocode_match": "Homer, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4197194419997,
+          58.30193971200049
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "juneau-alaska",
+        "display": "Juneau, Alaska",
+        "geocode_match": "Juneau, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.59582581899974,
+          62.95638968600048
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "mcgrath-alaska",
+        "display": "Mcgrath, Alaska",
+        "geocode_match": "McGrath, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.40638625099976,
+          64.50110711100052
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "nome-alaska",
+        "display": "Nome, Alaska",
+        "geocode_match": "Nome, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.59666907899975,
+          66.89832788600052
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "kotzebue-alaska",
+        "display": "Kotzebue, Alaska",
+        "geocode_match": "Kotzebue, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.27610612199976,
+          57.39999924800048
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "st-paul-island-alaska",
+        "display": "St Paul Island, Alaska",
+        "geocode_match": "Saint Paul Island, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.10943566999973,
+          62.323889812000516
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "talkeetna-alaska",
+        "display": "Talkeetna, Alaska",
+        "geocode_match": "Talkeetna, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.72721896499974,
+          59.5469387330005
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "yakutat-alaska",
+        "display": "Yakutat, Alaska",
+        "geocode_match": "Yakutat, Alaska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.48647958099968,
+          45.46469586100045
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "aberdeen-south-dakota",
+        "display": "Aberdeen, South Dakota",
+        "geocode_match": "Aberdeen, South Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34295874399965,
+          42.4927590850005
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "waterloo-iowa",
+        "display": "Waterloo, Iowa",
+        "geocode_match": "Waterloo, Iowa, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.87001838099968,
+          37.46944984200047
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "alamosa-colorado",
+        "display": "Alamosa, Colorado",
+        "geocode_match": "Alamosa, Colorado, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36073906899964,
+          46.50836924800046
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "sault-ste-marie-michigan",
+        "display": "Sault Ste Marie, Michigan",
+        "geocode_match": "Sault Ste Marie/Int'l Brg/Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43274591699964,
+          45.061675624000486
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "alpena-michigan",
+        "display": "Alpena, Michigan",
+        "geocode_match": "Alpena, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.66716685799969,
+          41.8666261460005
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "scottsbluff-nebraska",
+        "display": "Scottsbluff, Nebraska",
+        "geocode_match": "Scottsbluff, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78373722699968,
+          46.80832613000047
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "bismarck-north-dakota",
+        "display": "Bismarck, North Dakota",
+        "geocode_match": "Bismarck, North Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66253969599967,
+          39.5708398700005
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "concordia-kansas",
+        "display": "Concordia, Kansas",
+        "geocode_match": "Concordia, Kansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82135943699967,
+          38.83387726600046
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "colorado-springs-colorado",
+        "display": "Colorado Springs, Colorado",
+        "geocode_match": "Colorado Springs, Colorado, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33406753299965,
+          38.95170831000047
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "columbia-missouri",
+        "display": "Columbia, Missouri",
+        "geocode_match": "Columbia, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31307606499968,
+          42.86662640800046
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "casper-wyoming",
+        "display": "Casper, Wyoming",
+        "geocode_match": "Casper, Wyoming, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82024803599967,
+          41.139976628000454
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "cheyenne-wyoming",
+        "display": "Cheyenne, Wyoming",
+        "geocode_match": "Cheyenne, Wyoming, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.66456718099965,
+          42.500556893000464
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "dubuque-iowa",
+        "display": "Dubuque, Iowa",
+        "geocode_match": "Dubuque, Iowa, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.01707725899968,
+          37.75279869900049
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "dodge-city-kansas",
+        "display": "Dodge City, Kansas",
+        "geocode_match": "Dodge City, Kansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98469944299967,
+          39.73914743400047
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "denver-colorado",
+        "display": "Denver, Colorado",
+        "geocode_match": "Denver, Colorado, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10657671999968,
+          46.783267854000485
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "duluth-minnesota",
+        "display": "Duluth, Minnesota",
+        "geocode_match": "Duluth, Minnesota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6091058889997,
+          41.600537758000485
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "des-moines-iowa",
+        "display": "Des Moines, Iowa",
+        "geocode_match": "Des Moines, Iowa, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04574875899965,
+          42.3314259010005
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "detroit-michigan",
+        "display": "Detroit, Michigan",
+        "geocode_match": "Detroit, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55584704199964,
+          37.974759502000495
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "evansville-indiana",
+        "display": "Evansville, Indiana",
+        "geocode_match": "Evansville, Indiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.78979714099967,
+          46.87718802000046
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "fargo-north-dakota",
+        "display": "Fargo, North Dakota",
+        "geocode_match": "Fargo, North Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.68745931399968,
+          43.012525962000495
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "flint-michigan",
+        "display": "Flint, Michigan",
+        "geocode_match": "Flint, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70032707999968,
+          43.54996727000048
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "sioux-falls-south-dakota",
+        "display": "Sioux Falls, South Dakota",
+        "geocode_match": "Sioux Falls, South Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.12885690799965,
+          41.1305994600005
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "fort-wayne-indiana",
+        "display": "Fort Wayne, Indiana",
+        "geocode_match": "Fort Wayne, Indiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03284757299969,
+          47.9252575160005
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "grand-forks-north-dakota",
+        "display": "Grand Forks, North Dakota",
+        "geocode_match": "Grand Forks, North Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.55064650799972,
+          39.0638698570005
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "grand-junction-colorado",
+        "display": "Grand Junction, Colorado",
+        "geocode_match": "Grand Junction, Colorado, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7101690179997,
+          39.350827393000486
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "goodland-kansas",
+        "display": "Goodland, Kansas",
+        "geocode_match": "Goodland, Kansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01982786899964,
+          44.51915876600049
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "green-bay-wisconsin",
+        "display": "Green Bay, Wisconsin",
+        "geocode_match": "Green Bay, Wisconsin, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.34200640099965,
+          40.92500820400045
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "grand-island-nebraska",
+        "display": "Grand Island, Nebraska",
+        "geocode_match": "Grand Island, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66808905799968,
+          42.963358825000455
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "grand-rapids-michigan",
+        "display": "Grand Rapids, Michigan",
+        "geocode_match": "Grand Rapids, Kent County, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.21425823699968,
+          44.36331959500046
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "huron-south-dakota",
+        "display": "Huron, South Dakota",
+        "geocode_match": "Huron, South Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76474921799968,
+          44.31473740600046
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "houghton-lake-michigan",
+        "display": "Houghton Lake, Michigan",
+        "geocode_match": "Houghton Lake, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33753803599967,
+          37.69223857300045
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "wichita-kansas",
+        "display": "Wichita, Kansas",
+        "geocode_match": "Wichita, Kansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15803708099969,
+          39.768376841000475
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "indianapolis-indiana",
+        "display": "Indianapolis, Indiana",
+        "geocode_match": "Indianapolis, Indiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.41097946999969,
+          48.60104804800051
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "international-falls-minnesota",
+        "display": "International Falls, Minnesota",
+        "geocode_match": "International Falls, Minnesota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6179682229997,
+          48.146966342000496
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "williston-north-dakota",
+        "display": "Williston, North Dakota",
+        "geocode_match": "Williston, North Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87078680899964,
+          37.82507578500048
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "jackson-kentucky",
+        "display": "Jackson, Kentucky",
+        "geocode_match": "Jackson, Mercer County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55552678399965,
+          42.73253830700048
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "lansing-michigan",
+        "display": "Lansing, Michigan",
+        "geocode_match": "Lansing, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76541935299969,
+          41.12388605600046
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "north-platte-nebraska",
+        "display": "North Platte, Nebraska",
+        "geocode_match": "North Platte, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47771968799964,
+          37.98868576700045
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "lexington-kentucky",
+        "display": "Lexington, Kentucky",
+        "geocode_match": "Lexington, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.73066653399968,
+          42.83300989200046
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "lander-wyoming",
+        "display": "Lander, Wyoming",
+        "geocode_match": "Lander, Wyoming, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6669580409997,
+          40.79999579700046
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "lincoln-nebraska",
+        "display": "Lincoln, Nebraska",
+        "geocode_match": "Lincoln, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.23957565599966,
+          43.801359962000504
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "la-crosse-wisconsin",
+        "display": "La Crosse, Wisconsin",
+        "geocode_match": "La Crosse, Wisconsin, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57856736099967,
+          39.09972717500045
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "kansas-city-missouri",
+        "display": "Kansas City, Missouri",
+        "geocode_match": "Kansas City, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90646942799964,
+          43.0388981210005
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "milwaukee-wisconsin",
+        "display": "Milwaukee, Wisconsin",
+        "geocode_match": "Milwaukee, Wisconsin, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24838906299965,
+          43.23417629300047
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "muskegon-michigan",
+        "display": "Muskegon, Michigan",
+        "geocode_match": "Muskegon, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51512644199966,
+          41.50669858600048
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "moline-illinois",
+        "display": "Moline, Illinois",
+        "geocode_match": "Moline, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63346965399967,
+          46.53326553900047
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "marquette-county-michigan",
+        "display": "Marquette County, Michigan",
+        "geocode_match": "Marquette County, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40122778699964,
+          43.07304559100049
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "madison-wisconsin",
+        "display": "Madison, Wisconsin",
+        "geocode_match": "Madison, Wisconsin, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20251746799966,
+          44.86507907000049
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "minneapolis-st-paul-minnesota",
+        "display": "Minneapolis-St Paul, Minnesota",
+        "geocode_match": "Minneapolis-St Paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.41699648499969,
+          42.02833729600047
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "norfolk-nebraska",
+        "display": "Norfolk, Nebraska",
+        "geocode_match": "Norfolk, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.93778874599968,
+          41.25860860100045
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "omaha-nebraska",
+        "display": "Omaha, Nebraska",
+        "geocode_match": "Omaha, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65004618299969,
+          41.85002711900046
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "chicago-illinois",
+        "display": "Chicago, Illinois",
+        "geocode_match": "Chicago, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60004688199967,
+          37.08338860100048
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "paducah-kentucky",
+        "display": "Paducah, Kentucky",
+        "geocode_match": "Paducah, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58898712499968,
+          40.69364773400048
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "peoria-illinois",
+        "display": "Peoria, Illinois",
+        "geocode_match": "Peoria, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.60913576899969,
+          38.25444568400047
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "pueblo-colorado",
+        "display": "Pueblo, Colorado",
+        "geocode_match": "Pueblo, Colorado, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23100706199966,
+          44.080537689000494
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "rapid-city-south-dakota",
+        "display": "Rapid City, South Dakota",
+        "geocode_match": "Rapid City, South Dakota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0939995499997,
+          42.2711267520005
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "rockford-illinois",
+        "display": "Rockford, Illinois",
+        "geocode_match": "Rockford, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46989697999965,
+          44.02162891600045
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "rochester-minnesota",
+        "display": "Rochester, Minnesota",
+        "geocode_match": "Rochester, Minnesota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25000891899964,
+          41.68337990700047
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "south-bend-indiana",
+        "display": "South Bend, Indiana",
+        "geocode_match": "South Bend, Indiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75940845399964,
+          38.254238702000464
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "louisville-kentucky",
+        "display": "Louisville, Kentucky",
+        "geocode_match": "Louisville, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29823747399968,
+          37.215325893000454
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "springfield-missouri",
+        "display": "Springfield, Missouri",
+        "geocode_match": "Springfield, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9561769979997,
+          44.79718909400049
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "sheridan-wyoming",
+        "display": "Sheridan, Wyoming",
+        "geocode_match": "Sheridan, Wyoming, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64370676999965,
+          39.80171888200044
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "springfield-illinois",
+        "display": "Springfield, Illinois",
+        "geocode_match": "Springfield, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.16248928299967,
+          45.56079833300049
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "saint-cloud-minnesota",
+        "display": "Saint Cloud, Minnesota",
+        "geocode_match": "Saint Cloud, Minnesota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19788659299968,
+          38.62726910000049
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "st-louis-missouri",
+        "display": "St Louis, Missouri",
+        "geocode_match": "Saint Louis, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.40030720299967,
+          42.49998994300046
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "sioux-city-iowa",
+        "display": "Sioux City, Iowa",
+        "geocode_match": "Sioux City, Iowa, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.67803579599968,
+          39.048328236000486
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "topeka-kansas",
+        "display": "Topeka, Kansas",
+        "geocode_match": "Topeka, Kansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.55096838299966,
+          42.872777363000466
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "valentine-nebraska",
+        "display": "Valentine, Nebraska",
+        "geocode_match": "Valentine, Nebraska, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49017672399964,
+          40.60842979600045
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "allentown-pennsylvania",
+        "display": "Allentown, Pennsylvania",
+        "geocode_match": "Allentown, Lehigh County, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42292992899968,
+          39.36427670000046
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "atlantic-city-new-jersey",
+        "display": "Atlantic City, New Jersey",
+        "geocode_match": "Atlantic City, New Jersey, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75622859099963,
+          42.65257590300047
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "albany-new-york",
+        "display": "Albany, New York",
+        "geocode_match": "Albany, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55401889399968,
+          35.60094565000048
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "asheville-north-carolina",
+        "display": "Asheville, North Carolina",
+        "geocode_match": "Asheville, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73629588399967,
+          41.3397993960005
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "avoca-pennsylvania",
+        "display": "Avoca, Pennsylvania",
+        "geocode_match": "Avoca, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68508964099965,
+          41.76370677900047
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "hartford-connecticut",
+        "display": "Hartford, Connecticut",
+        "geocode_match": "Hartford, Connecticut, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20482952099962,
+          41.167037226000446
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "bridgeport-connecticut",
+        "display": "Bridgeport, Connecticut",
+        "geocode_match": "Bridgeport, Connecticut, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.91796726299964,
+          42.09868855400049
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "binghamton-new-york",
+        "display": "Binghamton, New York",
+        "geocode_match": "Binghamton, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.77780736499966,
+          44.80117574100046
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "bangor-maine",
+        "display": "Bangor, Maine",
+        "geocode_match": "Bangor, Maine, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18815609699965,
+          37.77816744700044
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "beckley-west-virginia",
+        "display": "Beckley, West Virginia",
+        "geocode_match": "Beckley, West Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05976636899965,
+          42.35842800500046
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "boston-massachusetts",
+        "display": "Boston, Massachusetts",
+        "geocode_match": "Boston, Massachusetts, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21206937799963,
+          44.475877107000485
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "burlington-vermont",
+        "display": "Burlington, Vermont",
+        "geocode_match": "Burlington, Vermont, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87836706299964,
+          42.88644715000049
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "buffalo-new-york",
+        "display": "Buffalo, New York",
+        "geocode_match": "Buffalo, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61218815899963,
+          39.290379757000494
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "baltimore-maryland",
+        "display": "Baltimore, Maryland",
+        "geocode_match": "Baltimore, Maryland, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03480970499965,
+          34.00070765100048
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "columbia-south-carolina",
+        "display": "Columbia, South Carolina",
+        "geocode_match": "Columbia, South Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51900723799963,
+          41.081436822000455
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "akron-ohio",
+        "display": "Akron, Ohio",
+        "geocode_match": "Akron, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.01196632399962,
+          46.860597992000464
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "caribou-maine",
+        "display": "Caribou, Maine",
+        "geocode_match": "Caribou, Maine, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93091816199967,
+          32.776568779000456
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "charleston-south-carolina",
+        "display": "Charleston, South Carolina",
+        "geocode_match": "Charleston, South Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69540958499965,
+          41.49949922400049
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "cleveland-ohio",
+        "display": "Cleveland, Ohio",
+        "geocode_match": "Cleveland, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.84312671499964,
+          35.22708732500047
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "charlotte-north-carolina",
+        "display": "Charlotte, North Carolina",
+        "geocode_match": "Charlotte, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99878642599964,
+          39.96117573200047
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "columbus-ohio",
+        "display": "Columbus, Ohio",
+        "geocode_match": "Columbus, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53756996999965,
+          43.20813710400046
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "concord-new-hampshire",
+        "display": "Concord, New Hampshire",
+        "geocode_match": "Concord, New Hampshire, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63261765699968,
+          38.349819220000484
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "charleston-west-virginia",
+        "display": "Charleston, West Virginia",
+        "geocode_match": "Charleston, West Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45688653699966,
+          39.161997149000456
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "cincinnati-ohio",
+        "display": "Cincinnati, Ohio",
+        "geocode_match": "Cincinnati, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19160807699967,
+          39.7589456770005
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "dayton-ohio",
+        "display": "Dayton, Ohio",
+        "geocode_match": "Dayton, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03636551799963,
+          38.89510783300045
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "washington-district-of-columbia",
+        "display": "Washington, District of Columbia",
+        "geocode_match": "Washington, D. C., District of Columbia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84672613299966,
+          38.92593909700048
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "elkins-west-virginia",
+        "display": "Elkins, West Virginia",
+        "geocode_match": "Elkins, West Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08505648399967,
+          42.12921834400049
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "erie-pennsylvania",
+        "display": "Erie, Pennsylvania",
+        "geocode_match": "Erie, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17236966299964,
+          40.735656006000454
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "newark-new-jersey",
+        "display": "Newark, New Jersey",
+        "geocode_match": "Newark, New Jersey, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.79197949099967,
+          36.072638792000475
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "greensboro-north-carolina",
+        "display": "Greensboro, North Carolina",
+        "geocode_match": "Greensboro, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21885713499967,
+          34.89566923400048
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "greenville-spartanburg-south-carolina",
+        "display": "Greenville-Spartanburg, South Carolina",
+        "geocode_match": "Greenville-Spartanburg Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53014667699966,
+          35.22461704400047
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "cape-hatteras-north-carolina",
+        "display": "Cape Hatteras, North Carolina",
+        "geocode_match": "Cape Hatteras, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44514655499967,
+          38.419248059000495
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "huntington-west-virginia",
+        "display": "Huntington, West Virginia",
+        "geocode_match": "Huntington, West Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4564,
+          38.9487
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "sterling-dulles-airport-virginia",
+        "display": "Sterling-Dulles Airport, Virginia",
+        "geocode_match": "None, inserted manually."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54658821799967,
+          39.74594633100048
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "wilmington-delaware",
+        "display": "Wilmington, Delaware",
+        "geocode_match": "Wilmington, Delaware, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94470891399965,
+          34.225728183000456
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "wilmington-north-carolina",
+        "display": "Wilmington, North Carolina",
+        "geocode_match": "Wilmington, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00107964999967,
+          41.24118614700046
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "williamsport-pennsylvania",
+        "display": "Williamsport, Pennsylvania",
+        "geocode_match": "Williamsport, Lycoming County, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21038652799967,
+          40.72981552500045
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "islip-new-york",
+        "display": "Islip, New York",
+        "geocode_match": "Islip, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00713891322943,
+          40.714550467431195
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "new-york-kennedy-airport-new-york",
+        "display": "New York-Kennedy Airport, New York",
+        "geocode_match": "New York, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00713891322943,
+          40.714550467431195
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "new-york-lga-new-york",
+        "display": "New York-LGA, New York",
+        "geocode_match": "New York, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.14224614699964,
+          37.41374928500045
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "lynchburg-virginia",
+        "display": "Lynchburg, Virginia",
+        "geocode_match": "Lynchburg, Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7889,
+          40.2158
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "name": "middletown-harrisburg-pennsylvania",
+        "display": "Middletown-Harrisburg, Pennsylvania",
+        "geocode_match": "None, inserted manually."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51544831599966,
+          40.75838798900048
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "name": "mansfield-ohio",
+        "display": "Mansfield, Ohio",
+        "geocode_match": "Mansfield, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06615580199963,
+          42.24953766800047
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "name": "milton-massachusetts",
+        "display": "Milton, Massachusetts",
+        "geocode_match": "Milton, Massachusetts, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98076766599962,
+          40.76454794200049
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "name": "new-york-central-park-new-york",
+        "display": "New York-Central Park, New York",
+        "geocode_match": "Park Central New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28521567399963,
+          36.84680859400049
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "name": "norfolk-virginia",
+        "display": "Norfolk, Virginia",
+        "geocode_match": "Norfolk, Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.80228597899963,
+          42.26258651000046
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "name": "worcester-massachusetts",
+        "display": "Worcester, Massachusetts",
+        "geocode_match": "Worcester, Massachusetts, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16378918699968,
+          39.95233851600045
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "name": "philadelphia-pennsylvania",
+        "display": "Philadelphia, Pennsylvania",
+        "geocode_match": "Philadelphia, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99588789699965,
+          40.4406171870005
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "name": "pittsburgh-pennsylvania",
+        "display": "Pittsburgh, Pennsylvania",
+        "geocode_match": "Pittsburgh, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41282753899964,
+          41.8239879300005
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "name": "providence-rhode-island",
+        "display": "Providence, Rhode Island",
+        "geocode_match": "Providence, Rhode Island, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25532775299962,
+          43.66146737600047
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "name": "portland-maine",
+        "display": "Portland, Maine",
+        "geocode_match": "Portland, Maine, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63860583899964,
+          35.77209696200049
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "name": "raleigh-north-carolina",
+        "display": "Raleigh, North Carolina",
+        "geocode_match": "Raleigh, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46025940299967,
+          37.55375886100046
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "name": "richmond-virginia",
+        "display": "Richmond, Virginia",
+        "geocode_match": "Richmond, Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94142922899965,
+          37.27096795500046
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "name": "roanoke-virginia",
+        "display": "Roanoke, Virginia",
+        "geocode_match": "Roanoke, Virginia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61555862199964,
+          43.15477633900048
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "name": "rochester-new-york",
+        "display": "Rochester, New York",
+        "geocode_match": "Rochester, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14741990199963,
+          43.04811780300048
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "name": "syracuse-new-york",
+        "display": "Syracuse, New York",
+        "geocode_match": "Syracuse, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55520704999964,
+          41.6639371330005
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "name": "toledo-ohio",
+        "display": "Toledo, Ohio",
+        "geocode_match": "Toledo, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47408615199964,
+          37.85317579100047
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "name": "wallops-island-virginia",
+        "display": "Wallops Island, Virginia",
+        "geocode_match": "Wallops Island, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.64951789499963,
+          41.099777195000456
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "name": "youngstown-ohio",
+        "display": "Youngstown, Ohio",
+        "geocode_match": "Youngstown, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7544974940006,
+          15.212327892000474
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "name": "saipan-northern-mariana-islands",
+        "display": "Saipan, Northern Mariana Islands",
+        "geocode_match": "Saipan, Saipan Municipality, Northern Mariana Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73149977300056,
+          13.480998527000452
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "name": "guam-guam",
+        "display": "Guam, Guam",
+        "geocode_match": "Guam, Oceania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.85832854899974,
+          21.306938069000466
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "name": "honolulu-hawaii",
+        "display": "Honolulu, Hawaii",
+        "geocode_match": "Honolulu, Hawaii, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.08999870499974,
+          19.72971552900043
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "name": "hilo-hawaii",
+        "display": "Hilo, Hawaii",
+        "geocode_match": "Hilo, Hawaii, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.3802680180006,
+          7.089707176000445
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "name": "majuro-marshall-islands",
+        "display": "Majuro, Marshall Islands",
+        "geocode_match": "Majuro, Majuro Atoll, Marshall Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.73444854000059,
+          8.71958854400043
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "name": "kwajalein-marshall-islands",
+        "display": "Kwajalein, Marshall Islands",
+        "geocode_match": "Kwajalein, Marshall Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.36718865599974,
+          21.978858945000468
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "name": "lihue-hawaii",
+        "display": "Lihue, Hawaii",
+        "geocode_match": "Lihue, Hawaii, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.46999924699975,
+          20.89471614900043
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "name": "kahului-hawaii",
+        "display": "Kahului, Hawaii",
+        "geocode_match": "Kahului, Hawaii, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.70249728499977,
+          -14.27805969399958
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "name": "pago-pago-american-samoa",
+        "display": "Pago Pago, American Samoa",
+        "geocode_match": "Pago Pago, Eastern District, American Samoa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.80499808600064,
+          7.453999350000458
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "name": "chuuk-federated-states-of-micronesia",
+        "display": "Chuuk, Federated States of Micronesia",
+        "geocode_match": "State of Chuuk, Micronesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.47849810200057,
+          7.338998555000444
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "name": "koror-palau",
+        "display": "Koror, Palau",
+        "geocode_match": "State of Koror, Palau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.20559911000055,
+          6.963997331000428
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "name": "pohnpei-federated-states-of-micronesia",
+        "display": "Pohnpei, Federated States of Micronesia",
+        "geocode_match": "State of Pohnpei, Micronesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.09699600500062,
+          9.537998420000463
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "name": "yap-federated-states-of-micronesia",
+        "display": "Yap, Federated States of Micronesia",
+        "geocode_match": "State of Yap, Micronesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.5999957090006,
+          19.309997274000466
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "name": "wake-island-united-states-minor-outlying-islands",
+        "display": "Wake Island, United States Minor Outlying Islands",
+        "geocode_match": "Wake Island, United States Minor Outlying Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.73313895499967,
+          32.44873687000046
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "name": "abilene-texas",
+        "display": "Abilene, Texas",
+        "geocode_match": "Abilene, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6511355669997,
+          35.084485979000476
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "name": "albuquerque-new-mexico",
+        "display": "Albuquerque, New Mexico",
+        "geocode_match": "Albuquerque, New Mexico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14666947299969,
+          31.549329681000472
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "name": "waco-texas",
+        "display": "Waco, Texas",
+        "geocode_match": "Waco, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97483928899965,
+          33.470969659000446
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "name": "augusta-georgia",
+        "display": "Augusta, Georgia",
+        "geocode_match": "Augusta, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37793628099968,
+          33.960949179000465
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "name": "athens-georgia",
+        "display": "Athens, Georgia",
+        "geocode_match": "Athens, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83129826899966,
+          35.221998277000466
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "name": "amarillo-texas",
+        "display": "Amarillo, Texas",
+        "geocode_match": "Amarillo, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38797965199967,
+          33.748999987000445
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "name": "atlanta-georgia",
+        "display": "Atlanta, Georgia",
+        "geocode_match": "Atlanta, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74305555099966,
+          30.267145960000448
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "name": "austin-texas",
+        "display": "Austin, Texas",
+        "geocode_match": "Austin, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6698695449997,
+          30.19452690400044
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "name": "austin-bergstrom-airport-texas",
+        "display": "Austin-Bergstrom Airport, Texas",
+        "geocode_match": "Austin-Bergstrom International Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80248789299964,
+          33.52065875000045
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "name": "birmingham-alabama",
+        "display": "Birmingham, Alabama",
+        "geocode_match": "Birmingham, Alabama, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78443999499967,
+          36.165888518000486
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "name": "nashville-tennessee",
+        "display": "Nashville, Tennessee",
+        "geocode_match": "Nashville, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.94197740713088,
+          29.879145989496863
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "name": "beaumont-port-arthur-texas",
+        "display": "Beaumont-Port Arthur, Texas",
+        "geocode_match": "Beaumont Ave, Port Arthur, Texas, 77640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.49747634299968,
+          25.90174583600043
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "name": "brownsville-texas",
+        "display": "Brownsville, Texas",
+        "geocode_match": "Brownsville, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.15454670099967,
+          30.450747667000485
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "name": "baton-rouge-louisiana",
+        "display": "Baton Rouge, Louisiana",
+        "geocode_match": "Baton Rouge, Louisiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18409872399968,
+          36.4516896560005
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "name": "clayton-new-mexico",
+        "display": "Clayton, New Mexico",
+        "geocode_match": "Clayton, New Mexico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.20399967199967,
+          34.42644637200044
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "childress-texas",
+        "display": "Childress, Texas",
+        "geocode_match": "Childress, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30967786199966,
+          35.045627427000454
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "chattanooga-tennessee",
+        "display": "Chattanooga, Tennessee",
+        "geocode_match": "Chattanooga, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39637931399966,
+          27.800577338000437
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "corpus-christi-texas",
+        "display": "Corpus Christi, Texas",
+        "geocode_match": "Corpus Christi, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98770893299968,
+          32.46097578400048
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "columbus-georgia",
+        "display": "Columbus, Georgia",
+        "geocode_match": "Columbus, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02282726799967,
+          29.210806197000466
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "daytona-beach-florida",
+        "display": "Daytona Beach, Florida",
+        "geocode_match": "Daytona Beach, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80666614399968,
+          32.78305720300045
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "dallas-texas",
+        "display": "Dallas, Texas",
+        "geocode_match": "Dallas, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03261809299966,
+          32.763029480000455
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "dallas-fort-worth-texas",
+        "display": "Dallas-Fort Worth, Texas",
+        "geocode_match": "Dallas-Fort Worth-Arlington, Grand Prairie, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8967581979997,
+          29.362726216000453
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "del-rio-texas",
+        "display": "Del Rio, Texas",
+        "geocode_match": "Del Rio, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48692713799966,
+          31.758718601000453
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "el-paso-texas",
+        "display": "El Paso, Texas",
+        "geocode_match": "El Paso, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78258934899964,
+          24.555699281000443
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "key-west-florida",
+        "display": "Key West, Florida",
+        "geocode_match": "Key West, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84058920199965,
+          26.621677451000437
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "fort-myers-florida",
+        "display": "Fort Myers, Florida",
+        "geocode_match": "Fort Myers, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.39854733499965,
+          35.38591873100046
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "fort-smith-arkansas",
+        "display": "Fort Smith, Arkansas",
+        "geocode_match": "Fort Smith, Arkansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.79769791599966,
+          29.301347162000468
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "galveston-texas",
+        "display": "Galveston, Texas",
+        "geocode_match": "Galveston, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32482723199968,
+          29.651627579000433
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "name": "gainesville-florida",
+        "display": "Gainesville, Florida",
+        "geocode_match": "Gainesville, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58609759499967,
+          34.73036740300046
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "name": "huntsville-alabama",
+        "display": "Huntsville, Alabama",
+        "geocode_match": "Huntsville, Alabama, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36326622799965,
+          29.763276172000474
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "name": "houston-texas",
+        "display": "Houston, Texas",
+        "geocode_match": "Houston, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18480625399968,
+          32.29875617900046
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "name": "jackson-mississippi",
+        "display": "Jackson, Mississippi",
+        "geocode_match": "Jackson, Mississippi, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65564661299965,
+          30.332178689000443
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "name": "jacksonville-florida",
+        "display": "Jacksonville, Florida",
+        "geocode_match": "Jacksonville, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8551686509997,
+          33.577857674000484
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "name": "lubbock-texas",
+        "display": "Lubbock, Texas",
+        "geocode_match": "Lubbock, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20439830199967,
+          30.213087757000437
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "name": "lake-charles-louisiana",
+        "display": "Lake Charles, Louisiana",
+        "geocode_match": "Lake Charles, Louisiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.28958897999968,
+          34.746475973000486
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "name": "little-rock-arkansas",
+        "display": "Little Rock, Arkansas",
+        "geocode_match": "Little Rock, Arkansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.10950858099966,
+          31.985745955000482
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "name": "midland-odessa-texas",
+        "display": "Midland-Odessa, Texas",
+        "geocode_match": "Midland Odessa Sda School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.63239770099966,
+          32.84068808900048
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "name": "macon-georgia",
+        "display": "Macon, Georgia",
+        "geocode_match": "Macon, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37923614099964,
+          28.53833637000048
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "name": "orlando-florida",
+        "display": "Orlando, Florida",
+        "geocode_match": "Orlando, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70365918799968,
+          32.36430636200049
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "name": "meridian-mississippi",
+        "display": "Meridian, Mississippi",
+        "geocode_match": "Meridian, Mississippi, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04897680699969,
+          35.14952770700046
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "name": "memphis-tennessee",
+        "display": "Memphis, Tennessee",
+        "geocode_match": "Memphis, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.29996798599967,
+          32.366808140000444
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "name": "montgomery-alabama",
+        "display": "Montgomery, Alabama",
+        "geocode_match": "Montgomery, Alabama, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19365884699965,
+          25.774267648000432
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "name": "miami-florida",
+        "display": "Miami, Florida",
+        "geocode_match": "Miami, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.60810806999967,
+          28.083629220000432
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "name": "melbourne-florida",
+        "display": "Melbourne, Florida",
+        "geocode_match": "Melbourne, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0430458089997,
+          30.694356050000465
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "name": "mobile-alabama",
+        "display": "Mobile, Alabama",
+        "geocode_match": "Mobile, Alabama, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.07506999099968,
+          29.954648690000454
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "name": "new-orleans-louisiana",
+        "display": "New Orleans, Louisiana",
+        "geocode_match": "New Orleans, Louisiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51642866099968,
+          35.46755948600048
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "name": "oklahoma-city-oklahoma",
+        "display": "Oklahoma City, Oklahoma",
+        "geocode_match": "Oklahoma City, Oklahoma, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26963565299968,
+          36.010359819000485
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "name": "oak-ridge-tennessee",
+        "display": "Oak Ridge, Tennessee",
+        "geocode_match": "Oak Ridge, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05336579599964,
+          26.71533664000043
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "name": "west-palm-beach-florida",
+        "display": "West Palm Beach, Florida",
+        "geocode_match": "West Palm Beach, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21690561899965,
+          30.421306780000464
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "name": "pensacola-florida",
+        "display": "Pensacola, Florida",
+        "geocode_match": "Pensacola, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52301791099967,
+          33.39426946500049
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "name": "roswell-new-mexico",
+        "display": "Roswell, New Mexico",
+        "geocode_match": "Roswell, New Mexico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49362944599966,
+          29.424118768000483
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "name": "san-antonio-texas",
+        "display": "San Antonio, Texas",
+        "geocode_match": "San Antonio, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09982893499966,
+          32.08353577700046
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "name": "savannah-georgia",
+        "display": "Savannah, Georgia",
+        "geocode_match": "Savannah, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75017736999968,
+          32.52514908900048
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "name": "shreveport-louisiana",
+        "display": "Shreveport, Louisiana",
+        "geocode_match": "Shreveport, Louisiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.43703849199966,
+          31.46376977400047
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "name": "san-angelo-texas",
+        "display": "San Angelo, Texas",
+        "geocode_match": "San Angelo, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.10571948099965,
+          18.466326639000442
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "name": "san-juan-puerto-rico",
+        "display": "San Juan, Puerto Rico",
+        "geocode_match": "San Juan, San Juan, Puerto Rico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4933864679997,
+          33.91370787100044
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "name": "wichita-falls-texas",
+        "display": "Wichita Falls, Texas",
+        "geocode_match": "Wichita Falls, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28072716899965,
+          30.438256776000458
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "name": "tallahassee-florida",
+        "display": "Tallahassee, Florida",
+        "geocode_match": "Tallahassee, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45842937599969,
+          27.947516299000483
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "name": "tampa-florida",
+        "display": "Tampa, Florida",
+        "geocode_match": "Tampa, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4080065749427,
+          36.29376295739564
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "name": "bristol-johnson-city-tennessee",
+        "display": "Bristol-Johnson City, Tennessee",
+        "geocode_match": "Bristol Ct, Johnson City, Tennessee, 37604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99277836699969,
+          36.15397807500045
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "name": "tulsa-oklahoma",
+        "display": "Tulsa, Oklahoma",
+        "geocode_match": "Tulsa, Oklahoma, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.70338921199965,
+          34.25760785400047
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "name": "tupelo-mississippi",
+        "display": "Tupelo, Mississippi",
+        "geocode_match": "Tupelo, Mississippi, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92073661399968,
+          35.96063923100047
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "name": "knoxville-tennessee",
+        "display": "Knoxville, Tennessee",
+        "geocode_match": "Knoxville, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.00359566899965,
+          28.80526618400046
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "name": "victoria-texas",
+        "display": "Victoria, Texas",
+        "geocode_match": "Victoria, Victoria County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39726577899967,
+          27.638636708000433
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "name": "vero-beach-florida",
+        "display": "Vero Beach, Florida",
+        "geocode_match": "Vero Beach, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.83124553999971,
+          46.18787618800047
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "name": "astoria-oregon",
+        "display": "Astoria, Oregon",
+        "geocode_match": "Astoria, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.01870659499968,
+          35.37328835100044
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "name": "bakersfield-california",
+        "display": "Bakersfield, California",
+        "geocode_match": "Bakersfield, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39510693199969,
+          37.36353824100047
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "name": "bishop-california",
+        "display": "Bishop, California",
+        "geocode_match": "Bishop, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.50068744099968,
+          45.7832855900005
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "name": "billings-montana",
+        "display": "Billings, Montana",
+        "geocode_match": "Billings, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0540959539997,
+          43.586256550000485
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "name": "burns-oregon",
+        "display": "Burns, Oregon",
+        "geocode_match": "Burns, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.20344591499969,
+          43.613497133000465
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "name": "boise-idaho",
+        "display": "Boise, Idaho",
+        "geocode_match": "Boise, Idaho, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26983804799971,
+          34.03775736400047
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "name": "los-angeles-downtown-california",
+        "display": "Los Angeles Downtown, California",
+        "geocode_match": "Honda of Downtown Los Angeles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1636670419997,
+          40.80206561300048
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "name": "eureka-california",
+        "display": "Eureka, California",
+        "geocode_match": "Eureka, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.76311948899968,
+          40.83241992000046
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "name": "elko-nevada",
+        "display": "Elko, Nevada",
+        "geocode_match": "Elko, Nevada, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.85336771799967,
+          39.30429702200047
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "name": "ely-nevada",
+        "display": "Ely, Nevada",
+        "geocode_match": "ELY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08674610599968,
+          44.05206871500047
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "name": "eugene-oregon",
+        "display": "Eugene, Oregon",
+        "geocode_match": "Eugene, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.77236721599968,
+          36.74772738700045
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "name": "fresno-california",
+        "display": "Fresno, California",
+        "geocode_match": "Fresno, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.31290717699972,
+          48.19578701000046
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "name": "kalispell-montana",
+        "display": "Kalispell, Montana",
+        "geocode_match": "Kalispell, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65126736599967,
+          35.19806940000046
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "name": "flagstaff-arizona",
+        "display": "Flagstaff, Arizona",
+        "geocode_match": "Flagstaff, Arizona, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42907865499967,
+          47.6596595850005
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "name": "spokane-washington",
+        "display": "Spokane, Washington",
+        "geocode_match": "Spokane, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.63670984699968,
+          48.19695690600048
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "name": "glasgow-montana",
+        "display": "Glasgow, Montana",
+        "geocode_match": "Glasgow, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.30080696499971,
+          47.50023873200047
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "name": "great-falls-montana",
+        "display": "Great Falls, Montana",
+        "geocode_match": "Great Falls, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03610921599972,
+          46.59270976400046
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "name": "helena-montana",
+        "display": "Helena, Montana",
+        "geocode_match": "Helena, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6840869289997,
+          48.549995578000505
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "name": "havre-montana",
+        "display": "Havre, Montana",
+        "geocode_match": "Havre, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6973565139997,
+          35.024186830000474
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "name": "winslow-arizona",
+        "display": "Winslow, Arizona",
+        "geocode_match": "Winslow, Arizona, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1372160299997,
+          36.174968712000464
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "name": "las-vegas-nevada",
+        "display": "Las Vegas, Nevada",
+        "geocode_match": "Las Vegas, Nevada, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4089657019997,
+          33.94250981600044
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "name": "los-angeles-airport-california",
+        "display": "Los Angeles Airport, California",
+        "geocode_match": "Los Angeles International Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18922770099971,
+          33.766957894000484
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "name": "long-beach-california",
+        "display": "Long Beach, California",
+        "geocode_match": "Long Beach, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01765766399967,
+          46.41654589600046
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "name": "lewiston-idaho",
+        "display": "Lewiston, Idaho",
+        "geocode_match": "Lewiston, Idaho, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87558884299972,
+          42.3265168370005
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "name": "medford-oregon",
+        "display": "Medford, Oregon",
+        "geocode_match": "Medford, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.99399797699971,
+          46.8721484670005
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "name": "missoula-montana",
+        "display": "Missoula, Montana",
+        "geocode_match": "Missoula, Montana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90069661499973,
+          47.03786876100048
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "name": "olympia-washington",
+        "display": "Olympia, Washington",
+        "geocode_match": "Olympia, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.78859701399972,
+          45.67207795900049
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "name": "pendleton-oregon",
+        "display": "Pendleton, Oregon",
+        "geocode_match": "Pendleton, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67620703599971,
+          45.52344714800046
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "name": "portland-oregon",
+        "display": "Portland, Oregon",
+        "geocode_match": "Portland, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07403634999969,
+          33.448377164000476
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "name": "phoenix-arizona",
+        "display": "Phoenix, Arizona",
+        "geocode_match": "Phoenix, Arizona, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4455278849997,
+          42.87129699400049
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "name": "pocatello-idaho",
+        "display": "Pocatello, Idaho",
+        "geocode_match": "Pocatello, Idaho, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39167928399968,
+          40.586539239000444
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "name": "redding-california",
+        "display": "Redding, California",
+        "geocode_match": "Redding, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8137995399997,
+          39.529628027000456
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "name": "reno-nevada",
+        "display": "Reno, Nevada",
+        "geocode_match": "Reno, Nevada, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49439590699973,
+          38.58156665600046
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "name": "sacramento-california",
+        "display": "Sacramento, California",
+        "geocode_match": "Sacramento, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15725777599971,
+          32.71532921300047
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "name": "san-diego-california",
+        "display": "San Diego, California",
+        "geocode_match": "San Diego, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29077997599973,
+          37.95769701600045
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "name": "stockton-california",
+        "display": "Stockton, California",
+        "geocode_match": "Stockton, San Joaquin County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33206857399972,
+          47.60620882800049
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "name": "seattle-washington",
+        "display": "Seattle, Washington",
+        "geocode_match": "Seattle, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37579569399969,
+          37.618818588000465
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "name": "san-francisco-airport-california",
+        "display": "San Francisco Airport, California",
+        "geocode_match": "San Francisco International Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89104658799971,
+          40.7607772770005
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "name": "salt-lake-city-utah",
+        "display": "Salt Lake City, Utah",
+        "geocode_match": "Salt Lake City, Utah, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.03509968899971,
+          44.94289966400049
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "name": "salem-oregon",
+        "display": "Salem, Oregon",
+        "geocode_match": "Salem, Oregon, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4357163519997,
+          34.95302564500048
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "name": "santa-maria-california",
+        "display": "Santa Maria, California",
+        "geocode_match": "Santa Maria, Santa Barbara County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9264761819997,
+          32.22173651300045
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "name": "tucson-arizona",
+        "display": "Tucson, Arizona",
+        "geocode_match": "Tucson, Arizona, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.54242993099973,
+          47.94312993000045
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "name": "quillayute-washington",
+        "display": "Quillayute, Washington",
+        "geocode_match": "Quillayute, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7356769479997,
+          40.97295594900049
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "name": "winnemucca-nevada",
+        "display": "Winnemucca, Nevada",
+        "geocode_match": "Winnemucca, Nevada, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5058966249997,
+          46.60206893300045
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "name": "yakima-washington",
+        "display": "Yakima, Washington",
+        "geocode_match": "Yakima, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.62439653599972,
+          32.72531832700048
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "name": "yuma-arizona",
+        "display": "Yuma, Arizona",
+        "geocode_match": "Yuma, Arizona, United States"
+      }
+    }
+  ]
+}
