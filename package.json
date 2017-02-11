@@ -4,7 +4,8 @@
   "description": "Parse and load data from from ThreadEx text files into a SQLite database.",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "geocode": "node geocode-inventory.js"
   },
   "author": "Derek Swingley",
   "license": "MIT",
