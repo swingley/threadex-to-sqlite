@@ -12,6 +12,8 @@ let elapsedStart = new Date().getTime(), elapsedFinish, elapsed;
 
 // Get a list of data files.
 fs.readdir(constants.dataDir, (err, files) => {
+  // Only need to process files with 'ThreadEx' in the name.
+  files = files.filter(f => f.indexOf('ThreadEx') > -1);
   // Keep track of total files and which one is being processed.
   let fileCount = files.length;
   let current = -1;

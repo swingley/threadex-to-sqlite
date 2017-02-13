@@ -9,3 +9,9 @@ npm run start
 ```
 
 The processing takes about 2 minutes on my late 2012 rMBP.
+
+To geocode station locations, use:  
+```
+npm run geocode
+```
+
