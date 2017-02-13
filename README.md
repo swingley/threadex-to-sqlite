@@ -8,7 +8,7 @@ npm install
 npm run start
 ```
 
-The processing takes about 2 minutes on my late 2012 rMBP.
+The processing takes about two minutes on a late 2012 rMBP, half that on a late 2016 MacBook Pro w/o touchbar.
 
 To geocode station locations, use:  
 ```
