@@ -1,65 +1,77 @@
-ABI TX Abilene Area                   1885 2015 1885 2015
-ABQ NM Albuquerque Area               1891 2015 1891 2015
-ACT TX Waco Area                      1901 2015 1901 2015
-AGS GA Augusta Area                   1874 2015 1871 2015
-AHN GA Athens Area                    1893 2015 1857 2015
-AMA TX Amarillo Area                  1892 2015 1892 2015
-ATL GA Atlanta Area                   1878 2015 1878 2015
-ATT TX Austin Area                    1897 2015 1891 2015
-AUS TX Austin-Bergstrom Airport Area  1942 2015 1942 2015
-BHM AL Birmingham Area                1895 2015 1895 2015
-BNA TN Nashville Area                 1873 2015 1871 2015
-BPT TX Beaumont-Port Arthur Area      1901 2015 1901 2015
-BRO TX Brownsville Area               1878 2015 1878 2015
-BTR LA Baton Rouge Area               1892 2015 1892 2015
-CAO NM Clayton Area                   1896 2015 1896 2015
-CDS TX Childress Area                 1893 2015 1893 2015
-CHA TN Chattanooga Area               1879 2015 1879 2015
-CRP TX Corpus Christi Area            1887 2015 1887 2015
-CSG GA Columbus Area                  1891 2015 1891 2015
-DAB FL Daytona Beach Area             1923 2015 1923 2015
-DAL TX Dallas Area                    1913 2015 1913 2015
-DFW TX Dallas-Fort Worth Area         1898 2015 1898 2015
-DRT TX Del Rio Area                   1905 2015 1905 2015
-ELP TX El Paso Area                   1887 2015 1879 2015
-EYW FL Key West Area                  1872 2015 1871 2015
-FMY FL Fort Myers Area                1892 2015 1892 2015
-FSM AR Fort Smith Area                1882 2015 1882 2015
-GLS TX Galveston Area                 1874 2015 1871 2015
-GNV FL Gainesville Area               1890 2015 1890 2015
-HSV AL Huntsville Area                1907 2015 1894 2015
-IAH TX Houston Area                   1889 2015 1888 2015
-JAN MS Jackson Area                   1896 2015 1896 2015
-JAX FL Jacksonville Area              1871 2015 1871 2015
-LBB TX Lubbock Area                   1911 2015 1911 2015
-LCH LA Lake Charles Area              1895 2015 1895 2015
-LIT AR Little Rock Area               1879 2015 1875 2015
-MAF TX Midland-Odessa Area            1930 2015 1930 2015
-MCN GA Macon Area                     1892 2015 1892 2015
-MCO FL Orlando Area                   1892 2015 1892 2015
-MEI MS Meridian Area                  1889 2015 1889 2015
-MEM TN Memphis Area                   1875 2015 1872 2015
-MGM AL Montgomery Area                1872 2015 1872 2015
-MIA FL Miami Area                     1895 2015 1911 2015
-MLB FL Melbourne Area                 1937 2015 1937 2015
-MOB AL Mobile Area                    1872 2015 1871 2015
-MSY LA New Orleans Area               1946 2015 1946 2015
-OKC OK Oklahoma City Area             1890 2015 1890 2015
-OQT TN Oak Ridge Area                 1947 2015 1947 2015
-PBI FL West Palm Beach Area           1888 2015 1888 2015
-PNS FL Pensacola Area                 1879 2015 1879 2015
-ROW NM Roswell Area                   1893 2015 1893 2015
-SAT TX San Antonio Area               1885 2015 1885 2015
-SAV GA Savannah Area                  1874 2015 1871 2015
-SHV LA Shreveport Area                1874 2015 1871 2015
-SJT TX San Angelo Area                1907 2015 1907 2015
-SJU PR San Juan Area                  1898 2015 1898 2015
-SPS TX Wichita Falls Area             1923 2015 1897 2015
-TLH FL Tallahassee Area               1892 2015 1892 2015
-TPA FL Tampa Area                     1890 2015 1890 2015
-TRI TN Bristol-Johnson City Area      1937 2015 1937 2015
-TUL OK Tulsa Area                     1905 2015 1893 2015
-TUP MS Tupelo Area                    1930 2015 1930 2015
-TYS TN Knoxville Area                 1871 2015 1871 2015
-VCT TX Victoria Area                  1902 2015 1946 2015
-VRB FL Vero Beach Area                1942 2015 1942 2015
+ABI TX Abilene Area                   1885 2016 1885 2016
+ABQ NM Albuquerque Area               1891 2016 1891 2016
+ACT TX Waco Area                      1901 2016 1901 2016
+AGS GA Augusta Area                   1874 2016 1871 2016
+AHN GA Athens Area                    1893 2016 1857 2016
+AMA TX Amarillo Area                  1892 2016 1892 2016
+ATL GA Atlanta Area                   1878 2016 1878 2016
+ATT TX Austin Area                    1897 2016 1891 2016
+AUS TX Austin-Bergstrom Airport Area  1942 2016 1942 2016
+BHM AL Birmingham Area                1895 2016 1895 2016
+BNA TN Nashville Area                 1873 2016 1871 2016
+BPT TX Beaumont-Port Arthur Area      1901 2016 1901 2016
+BRO TX Brownsville Area               1878 2016 1878 2016
+BTR LA Baton Rouge Area               1892 2016 1892 2016
+CAO NM Clayton Area                   1896 2016 1896 2016
+CDS TX Childress Area                 1893 2016 1893 2016
+CHA TN Chattanooga Area               1879 2016 1879 2016
+CLL TX College Station Area           1893 2016 1893 2016
+CRP TX Corpus Christi Area            1887 2016 1887 2016
+CSG GA Columbus Area                  1891 2016 1891 2016
+DAB FL Daytona Beach Area             1923 2016 1923 2016
+DAL TX Dallas Area                    1913 2016 1913 2016
+DFW TX Dallas-Fort Worth Area         1898 2016 1898 2016
+DRT TX Del Rio Area                   1905 2016 1905 2016
+ELP TX El Paso Area                   1887 2016 1879 2016
+EYW FL Key West Area                  1872 2016 1871 2016
+FLL FL Fort Lauderdale Area           1912 2016 1912 2016
+FMY FL Fort Myers Area                1892 2016 1892 2016
+FPR FL Fort Pierce Area               1901 2016 1901 2016
+FSM AR Fort Smith Area                1882 2016 1882 2016
+GLH MS Greenville Area                1903 2016 1903 2016
+GLS TX Galveston Area                 1874 2016 1871 2016
+GNV FL Gainesville Area               1890 2016 1890 2016
+HRO AR Harrison Area                  1892 2016 1892 2016
+HSV AL Huntsville Area                1907 2016 1894 2016
+IAH TX Houston Area                   1889 2016 1888 2016
+JAN MS Jackson Area                   1896 2016 1896 2016
+JAX FL Jacksonville Area              1871 2016 1871 2016
+JBR AR Jonesboro Area                 1890 2016 1893 2016
+LAW OK Lawton Area                    1912 2016 1912 2016
+LBB TX Lubbock Area                   1911 2016 1911 2016
+LCH LA Lake Charles Area              1895 2016 1895 2016
+LIT AR Little Rock Area               1879 2016 1875 2016
+MAF TX Midland-Odessa Area            1930 2016 1930 2016
+MCN GA Macon Area                     1892 2016 1892 2016
+MCO FL Orlando Area                   1892 2016 1892 2016
+MEI MS Meridian Area                  1889 2016 1889 2016
+MEM TN Memphis Area                   1875 2016 1872 2016
+MGM AL Montgomery Area                1872 2016 1872 2016
+MIA FL Miami Area                     1895 2016 1911 2016
+MLB FL Melbourne Area                 1937 2016 1937 2016
+MLU LA Monroe Area                    1893 2016 1892 2016
+MOB AL Mobile Area                    1872 2016 1871 2016
+MSL AL Muscle Shoals Area             1893 2016 1893 2016
+MSY LA New Orleans Area               1946 2016 1946 2016
+OKC OK Oklahoma City Area             1890 2016 1890 2016
+OQT TN Oak Ridge Area                 1947 2016 1947 2016
+PBF AR Pine Bluff Area                1884 2016 1884 2016
+PBI FL West Palm Beach Area           1888 2016 1888 2016
+PNS FL Pensacola Area                 1879 2016 1879 2016
+ROW NM Roswell Area                   1893 2016 1893 2016
+SAT TX San Antonio Area               1885 2016 1885 2016
+SAV GA Savannah Area                  1874 2016 1871 2016
+SFB FL Sanford Area                   1948 2016 1948 2016
+SHV LA Shreveport Area                1874 2016 1871 2016
+SJT TX San Angelo Area                1907 2016 1907 2016
+SJU PR San Juan Area                  1898 2016 1898 2016
+SPS TX Wichita Falls Area             1923 2016 1897 2016
+SRQ FL Sarasota-Bradenton Area        1911 2016 1911 2016
+TLH FL Tallahassee Area               1892 2016 1892 2016
+TPA FL Tampa Area                     1890 2016 1890 2016
+TRI TN Bristol-Johnson City Area      1937 2016 1937 2016
+TUL OK Tulsa Area                     1905 2016 1893 2016
+TUP MS Tupelo Area                    1930 2016 1930 2016
+TYS TN Knoxville Area                 1871 2016 1871 2016
+VCT TX Victoria Area                  1902 2016 1946 2016
+VRB FL Vero Beach Area                1942 2016 1942 2016

@@ -1,68 +1,80 @@
-ABR SD Aberdeen Area                  1893 2015 1893 2015
-ALO IA Waterloo Area                  1895 2015 1895 2015
-ALS CO Alamosa Area                   1906 2015 1906 2015
-ANJ MI Sault Ste Marie Area           1888 2015 1888 2015
-APN MI Alpena Area                    1916 2015 1916 2015
-BFF NE Scottsbluff Area               1893 2015 1893 2015
-BIS ND Bismarck Area                  1874 2015 1874 2015
-CNK KS Concordia Area                 1885 2015 1885 2015
-COS CO Colorado Springs Area          1894 2015 1894 2015
-COU MO Columbia Area                  1889 2015 1889 2015
-CPR WY Casper Area                    1939 2015 1939 2015
-CYS WY Cheyenne Area                  1872 2015 1871 2015
-DBQ IA Dubuque Area                   1874 2015 1873 2015
-DDC KS Dodge City Area                1874 2015 1874 2015
-DEN CO Denver Area                    1872 2015 1872 2015
-DLH MN Duluth Area                    1874 2015 1871 2015
-DSM IA Des Moines Area                1878 2015 1878 2015
-DTW MI Detroit Area                   1874 2015 1874 2015
-EVV IN Evansville Area                1897 2015 1897 2015
-FAR ND Fargo Area                     1881 2015 1881 2015
-FNT MI Flint Area                     1921 2015 1921 2015
-FSD SD Sioux Falls Area               1893 2015 1893 2015
-FWA IN Fort Wayne Area                1897 2015 1897 2015
-GFK ND Grand Forks Area               1893 2015 1893 2015
-GJT CO Grand Junction Area            1893 2015 1893 2015
-GLD KS Goodland Area                  1895 2015 1895 2015
-GRB WI Green Bay Area                 1886 2015 1886 2015
-GRI NE Grand Island Area              1895 2015 1895 2015
-GRR MI Grand Rapids Area              1892 2015 1892 2015
-HON SD Huron Area                     1881 2015 1881 2015
-HTL MI Houghton Lake Area             1913 2015 1913 2015
-ICT KS Wichita Area                   1888 2015 1888 2015
-IND IN Indianapolis Area              1871 2015 1871 2015
-INL MN International Falls Area       1897 2015 1895 2015
-ISN ND Williston Area                 1894 2015 1894 2015
-JKL KY Jackson Area                   1981 2015 1981 2015
-LAN MI Lansing Area                   1863 2015 1863 2015
-LBF NE North Platte Area              1874 2015 1874 2015
-LEX KY Lexington Area                 1872 2015 1872 2015
-LND WY Lander Area                    1891 2015 1891 2015
-LNK NE Lincoln Area                   1887 2015 1887 2015
-LSE WI La Crosse Area                 1872 2015 1872 2015
-MCI MO Kansas City Area               1888 2015 1888 2015
-MKE WI Milwaukee Area                 1871 2015 1871 2015
-MKG MI Muskegon Area                  1896 2015 1896 2015
-MLI IL Moline Area                    1874 2015 1871 2015
-MQT MI Marquette County Area          1875 2015 1871 2015
-MSN WI Madison Area                   1869 2015 1869 2015
-MSP MN Minneapolis-St Paul Area       1872 2015 1871 2015
-OFK NE Norfolk Area                   1893 2015 1893 2015
-OMA NE Omaha Area                     1871 2015 1871 2015
-ORD IL Chicago Area                   1872 2015 1871 2015
-PAH KY Paducah Area                   1937 2015 1937 2015
-PIA IL Peoria Area                    1883 2015 1883 2015
-PUB CO Pueblo Area                    1888 2015 1888 2015
-RAP SD Rapid City Area                1942 2015 1942 2015
-RFD IL Rockford Area                  1893 2015 1893 2015
-RST MN Rochester Area                 1886 2015 1886 2015
-SBN IN South Bend Area                1893 2015 1893 2015
-SDF KY Louisville Area                1872 2015 1872 2015
-SGF MO Springfield Area               1888 2015 1888 2015
-SHR WY Sheridan Area                  1907 2015 1907 2015
-SPI IL Springfield Area               1879 2015 1879 2015
-STC MN Saint Cloud Area               1894 2015 1893 2015
-STL MO St Louis Area                  1874 2015 1874 2015
-SUX IA Sioux City Area                1889 2015 1889 2015
-TOP KS Topeka Area                    1887 2015 1887 2015
-VTN NE Valentine Area                 1889 2015 1889 2015
+ABR SD Aberdeen Area                  1893 2016 1893 2016
+ALO IA Waterloo Area                  1895 2016 1895 2016
+ALS CO Alamosa Area                   1906 2016 1906 2016
+ANJ MI Sault Ste Marie Area           1888 2016 1888 2016
+APN MI Alpena Area                    1916 2016 1916 2016
+ASX WI Ashland Area                   1893 2016 1893 2016
+AUW WI Wausau Area                    1895 2016 1895 2016
+BFF NE Scottsbluff Area               1893 2016 1893 2016
+BIS ND Bismarck Area                  1874 2016 1874 2016
+BRD MN Brainerd Area                  1899 2016 1908 2016
+CNK KS Concordia Area                 1885 2016 1885 2016
+COS CO Colorado Springs Area          1894 2016 1894 2016
+COU MO Columbia Area                  1889 2016 1889 2016
+CPR WY Casper Area                    1939 2016 1939 2016
+CYS WY Cheyenne Area                  1872 2016 1871 2016
+DBQ IA Dubuque Area                   1874 2016 1873 2016
+DDC KS Dodge City Area                1874 2016 1874 2016
+DEN CO Denver Area                    1872 2016 1872 2016
+DLH MN Duluth Area                    1874 2016 1871 2016
+DSM IA Des Moines Area                1878 2016 1878 2016
+DTW MI Detroit Area                   1874 2016 1874 2016
+EAU WI Eau Claire Area                1893 2016 1893 2016
+EVV IN Evansville Area                1897 2016 1897 2016
+FAR ND Fargo Area                     1881 2016 1881 2016
+FNT MI Flint Area                     1921 2016 1921 2016
+FSD SD Sioux Falls Area               1893 2016 1893 2016
+FWA IN Fort Wayne Area                1897 2016 1897 2016
+GFK ND Grand Forks Area               1893 2016 1893 2016
+GJT CO Grand Junction Area            1893 2016 1893 2016
+GLD KS Goodland Area                  1895 2016 1895 2016
+GRB WI Green Bay Area                 1886 2016 1886 2016
+GRI NE Grand Island Area              1895 2016 1895 2016
+GRR MI Grand Rapids Area              1892 2016 1892 2016
+HIB MN Hibbing Area                   1938 2016 1931 2016
+HIS NE Hastings Area                  1907 2016 1894 2016
+HON SD Huron Area                     1881 2016 1881 2016
+HTL MI Houghton Lake Area             1913 2016 1913 2016
+HYR WI Hayward Area                   1893 2016 1893 2016
+ICT KS Wichita Area                   1888 2016 1888 2016
+IND IN Indianapolis Area              1871 2016 1871 2016
+INL MN International Falls Area       1897 2016 1895 2016
+ISN ND Williston Area                 1894 2016 1894 2016
+JKL KY Jackson Area                   1981 2016 1981 2016
+LAN MI Lansing Area                   1863 2016 1863 2016
+LBF NE North Platte Area              1874 2016 1874 2016
+LEX KY Lexington Area                 1872 2016 1872 2016
+LND WY Lander Area                    1891 2016 1891 2016
+LNK NE Lincoln Area                   1887 2016 1887 2016
+LSE WI La Crosse Area                 1872 2016 1872 2016
+MBS MI Saginaw Area                   1898 2016 1898 2016
+MCI MO Kansas City Area               1888 2016 1888 2016
+MHE SD Mitchell Area                  1893 2016 1893 2016
+MKE WI Milwaukee Area                 1871 2016 1871 2016
+MKG MI Muskegon Area                  1896 2016 1896 2016
+MLI IL Moline Area                    1874 2016 1871 2016
+MQT MI Marquette County Area          1875 2016 1871 2016
+MSN WI Madison Area                   1869 2016 1869 2016
+MSP MN Minneapolis-St Paul Area       1872 2016 1871 2016
+OFK NE Norfolk Area                   1893 2016 1893 2016
+OMA NE Omaha Area                     1871 2016 1871 2016
+ORD IL Chicago Area                   1872 2016 1871 2016
+PAH KY Paducah Area                   1937 2016 1937 2016
+PIA IL Peoria Area                    1883 2016 1883 2016
+PUB CO Pueblo Area                    1888 2016 1888 2016
+RAP SD Rapid City Area                1942 2016 1942 2016
+RFD IL Rockford Area                  1893 2016 1893 2016
+RST MN Rochester Area                 1886 2016 1886 2016
+SBN IN South Bend Area                1893 2016 1893 2016
+SDF KY Louisville Area                1872 2016 1872 2016
+SGF MO Springfield Area               1888 2016 1888 2016
+SHR WY Sheridan Area                  1907 2016 1907 2016
+SLN KS Salina Area                    1948 2016 1948 2016
+SPI IL Springfield Area               1879 2016 1879 2016
+SPW IA Spencer Area                   1895 2016 1895 2016
+STC MN Saint Cloud Area               1894 2016 1893 2016
+STL MO St Louis Area                  1874 2016 1874 2016
+SUX IA Sioux City Area                1889 2016 1889 2016
+TOP KS Topeka Area                    1887 2016 1887 2016
+UIN IL Quincy Area                    1901 2016 1901 2016
+VTN NE Valentine Area                 1889 2016 1889 2016

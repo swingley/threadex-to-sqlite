@@ -1,59 +1,72 @@
-ABE PA Allentown Area                 1922 2015 1922 2015
-ACY NJ Atlantic City Area             1874 2015 1874 2015
-ALB NY Albany Area                    1874 2015 1874 2015
-AVL NC Asheville Area                 1876 2015 1869 2015
-AVP PA Avoca Area                     1901 2015 1901 2015
-BDL CT Hartford Area                  1905 2015 1905 2015
-BDR CT Bridgeport Area                1948 2015 1948 2015
-BGM NY Binghamton Area                1951 2015 1951 2015
-BGR ME Bangor Area                    1925 2015 1925 2015
-BKW WV Beckley Area                   1896 2015 1893 2015
-BOS MA Boston Area                    1872 2015 1872 2015
-BTV VT Burlington Area                1883 2015 1884 2015
-BUF NY Buffalo Area                   1873 2015 1871 2015
-BWI MD Baltimore Area                 1872 2015 1871 2015
-CAE SC Columbia Area                  1887 2015 1887 2015
-CAK OH Akron Area                     1887 2015 1896 2015
-CAR ME Caribou Area                   1939 2015 1939 2015
-CHS SC Charleston Area                1938 2015 1938 2015
-CLE OH Cleveland Area                 1871 2015 1871 2015
-CLT NC Charlotte Area                 1878 2015 1878 2015
-CMH OH Columbus Area                  1878 2015 1878 2015
-CON NH Concord Area                   1868 2015 1868 2015
-CRW WV Charleston Area                1892 2015 1892 2015
-CVG OH Cincinnati Area                1872 2015 1871 2015
-DAY OH Dayton Area                    1893 2015 1893 2015
-DCA DC Washington Area                1872 2015 1871 2015
-EKN WV Elkins Area                    1899 2015 1899 2015
-ERI PA Erie Area                      1873 2015 1873 2015
-EWR NJ Newark Area                    1931 2015 1931 2015
-GSO NC Greensboro Area                1903 2015 1903 2015
-GSP SC Greenville-Spartanburg Area    1884 2015 1884 2015
-HSE NC Cape Hatteras Area             1893 2015 1893 2015
-HTS WV Huntington Area                1891 2015 1891 2015
-IAD VA Sterling-Dulles Airport Area   1962 2015 1962 2015
-ILG DE Wilmington Area                1894 2015 1894 2015
-ILM NC Wilmington Area                1874 2015 1871 2015
-IPT PA Williamsport Area              1895 2015 1895 2015
-ISP NY Islip Area                     1984 2015 1984 2015
-JFK NY New York-Kennedy Airport Area  1948 2015 1948 2015
-LGA NY New York-LGA Area              1940 2015 1944 2015
-LYH VA Lynchburg Area                 1893 2015 1893 2015
-MDT PA Middletown-Harrisburg Area     1888 2015 1888 2015
-MFD OH Mansfield Area                 1916 2015 1899 2015
-MQE MA Milton Area                    1893 2015 1893 2015
-NYC NY New York-Central Park Area     1871 2015 1871 2015
-ORF VA Norfolk Area                   1874 2015 1874 2015
-ORH MA Worcester Area                 1892 2015 1892 2015
-PHL PA Philadelphia Area              1873 2015 1872 2015
-PIT PA Pittsburgh Area                1875 2015 1871 2015
-PVD RI Providence Area                1904 2015 1904 2015
-PWM ME Portland Area                  1874 2015 1871 2015
-RDU NC Raleigh Area                   1887 2015 1887 2015
-RIC VA Richmond Area                  1897 2015 1887 2015
-ROA VA Roanoke Area                   1912 2015 1912 2015
-ROC NY Rochester Area                 1872 2015 1871 2015
-SYR NY Syracuse Area                  1902 2015 1902 2015
-TOL OH Toledo Area                    1873 2015 1871 2015
-WAL VA Wallops Island Area            1966 2015 1948 2015
-YNG OH Youngstown Area                1897 2015 1896 2015
+ABE PA Allentown Area                 1922 2016 1912 2016
+ACY NJ Atlantic City Area             1874 2016 1874 2016
+ALB NY Albany Area                    1874 2016 1874 2016
+AVL NC Asheville Area                 1876 2016 1869 2016
+AVP PA Avoca Area                     1901 2016 1901 2016
+BDL CT Hartford Area                  1905 2016 1905 2016
+BDR CT Bridgeport Area                1948 2016 1948 2016
+BGM NY Binghamton Area                1951 2016 1951 2016
+BGR ME Bangor Area                    1925 2016 1925 2016
+BKW WV Beckley Area                   1896 2016 1893 2016
+BOS MA Boston Area                    1872 2016 1872 2016
+BTV VT Burlington Area                1883 2016 1884 2016
+BUF NY Buffalo Area                   1873 2016 1871 2016
+BWI MD Baltimore Area                 1872 2016 1871 2016
+CAE SC Columbia Area                  1887 2016 1887 2016
+CAK OH Akron Area                     1887 2016 1896 2016
+CAR ME Caribou Area                   1939 2016 1939 2016
+CHS SC Charleston Area                1938 2016 1938 2016
+CLE OH Cleveland Area                 1871 2016 1871 2016
+CLT NC Charlotte Area                 1878 2016 1878 2016
+CMH OH Columbus Area                  1878 2016 1878 2016
+CON NH Concord Area                   1868 2016 1868 2016
+CRW WV Charleston Area                1892 2016 1892 2016
+CVG OH Cincinnati Area                1872 2016 1871 2016
+DAY OH Dayton Area                    1893 2016 1893 2016
+DCA DC Washington Area                1872 2016 1871 2016
+ECG NC Elizabeth City Area            1934 2016 1934 2016
+EKN WV Elkins Area                    1899 2016 1899 2016
+ERI PA Erie Area                      1873 2016 1873 2016
+EWR NJ Newark Area                    1931 2016 1931 2016
+GSO NC Greensboro Area                1903 2016 1903 2016
+GSP SC Greenville-Spartanburg Area    1884 2016 1884 2016
+HLG WV Wheeling Area                  1881 2016 1878 2016
+HSE NC Cape Hatteras Area             1893 2016 1893 2016
+HTS WV Huntington Area                1891 2016 1891 2016
+IAD VA Sterling-Dulles Airport Area   1962 2016 1962 2016
+ILG DE Wilmington Area                1894 2016 1894 2016
+ILM NC Wilmington Area                1874 2016 1871 2016
+IPT PA Williamsport Area              1895 2016 1895 2016
+ISP NY Islip Area                     1984 2016 1984 2016
+JFK NY New York-Kennedy Airport Area  1948 2016 1948 2016
+LBT NC Lumberton Area                 1903 2016 1903 2016
+LGA NY New York-LGA Area              1940 2016 1944 2016
+LYH VA Lynchburg Area                 1893 2016 1893 2016
+MDT PA Middletown-Harrisburg Area     1888 2016 1888 2016
+MFD OH Mansfield Area                 1916 2016 1899 2016
+MGW WV Morgantown Area                1874 2016 1872 2016
+MHT NH Manchester Area                1885 2016 1885 2016
+MLT ME Millinocket Area               1903 2016 1902 2016
+MQE MA Milton Area                    1893 2016 1893 2016
+NYC NY New York-Central Park Area     1871 2016 1871 2016
+ORF VA Norfolk Area                   1874 2016 1874 2016
+ORH MA Worcester Area                 1892 2016 1892 2016
+PHD OH New Philadelphia Area          1948 2016 1948 2016
+PHL PA Philadelphia Area              1873 2016 1872 2016
+PIT PA Pittsburgh Area                1875 2016 1871 2016
+PKB WV Parkersburg Area               1926 2016 1926 2016
+POU NY Poughkeepsie Area              1931 2016 1931 2016
+PVD RI Providence Area                1904 2016 1904 2016
+PWM ME Portland Area                  1874 2016 1871 2016
+RDG PA Reading Area                   1903 2016 1894 2016
+RDU NC Raleigh Area                   1887 2016 1887 2016
+RIC VA Richmond Area                  1897 2016 1887 2016
+ROA VA Roanoke Area                   1912 2016 1912 2016
+ROC NY Rochester Area                 1872 2016 1871 2016
+SBY MD Salisbury Area                 1906 2016 1906 2016
+SYR NY Syracuse Area                  1902 2016 1902 2016
+TOL OH Toledo Area                    1873 2016 1871 2016
+TTN NJ Trenton Area                   1865 2016 1865 2016
+WAL VA Wallops Island Area            1966 2016 1948 2016
+YNG OH Youngstown Area                1897 2016 1896 2016
+ZZV OH Zanesville Area                1895 2016 1895 2016
