@@ -6,6 +6,7 @@ const constants = require('./threadex-constants');
 const createTables = require('./create-tables');
 const insertInventory = require('./insert-inventory');
 const insertData = require('./insert-data');
+const createIndexes = require('./create-indexes');
 
 // Time how long this takes.
 let elapsedStart = new Date().getTime(), elapsedFinish, elapsed;
@@ -31,10 +32,13 @@ fs.readdir(constants.dataDir, (err, files) => {
         insertInventory(constants.dataDir + path.sep + file, processFiles);
       }
     } else {
-      elapsedFinish = new Date().getTime();
-      elapsed = ((elapsedFinish - elapsedStart) / 1000 / 60);
-      elapsed = (Math.round(elapsed * 100) / 100).toFixed(2);
-      console.log(`Finished in ${elapsed} minutes.`);
+      createIndexes(() => {
+        console.log('Created indexes.')
+        elapsedFinish = new Date().getTime();
+        elapsed = ((elapsedFinish - elapsedStart) / 1000 / 60);
+        elapsed = (Math.round(elapsed * 100) / 100).toFixed(2);
+        console.log(`Finished in ${elapsed} minutes.`);
+      })
     }
   }
   // Create the db and necessary tables before trying to insert data.

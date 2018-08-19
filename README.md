@@ -1,8 +1,8 @@
 Parse and load data from from [ThreadEx](http://threadex.rcc-acis.org/) text files into a SQLite database.
 
-Files in [raw-data](./raw-data) were downloaded from the [ThreadEx site](http://threadex.rcc-acis.org/links.html).
+Download data files from the [ThreadEx site](http://threadex.rcc-acis.org/links.html) and put them in a folder named `raw-data` in this repo.
 
-A copy of the database is included in this repo. To re-generate it, run:
+To generate a sqlite database from the raw data files run:
 ```
 npm install
 npm run start
@@ -10,7 +10,7 @@ npm run start
 
 The processing takes about two minutes on a late 2012 rMBP, half that on a late 2016 MacBook Pro w/o touchbar.
 
-To geocode station locations, use:  
+To geocode station locations, use:
 ```
 npm run geocode
 ```
